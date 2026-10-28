@@ -37,4 +37,16 @@ O Fire Ash usa RPG Maker XP/Essentials, Ruby e arquivos RXDATA. O Alvorada usa J
 
 A alternativa de executar Ruby/RGSS no navegador também requer avaliação: o projeto [mkxp-web-jspi](https://github.com/Dim145/mkxp-web-jspi) documenta incompatibilidade atual com navegadores móveis e trabalho adicional para jogos com scripts de Essentials. Não é uma solução já validada para este Fire Ash.
 
-Créditos e arquivos de autoria do Fire Ash foram preservados na cópia original. Nenhum script do ZIP foi executado, e a prévia não foi publicada.
+Créditos e arquivos de autoria do Fire Ash foram preservados na cópia original. Nenhum script do ZIP foi executado, e a publicação contém somente a prévia de exploração.
+
+## Publicação da prévia
+
+Endereço: https://medtechbr.com.br/fire-ash-web/
+
+O GitHub Pages publica apenas `web/`. O ZIP, a cópia integral do Fire Ash e os arquivos executáveis ficam de fora. Os créditos originais acompanham o pacote em `web/creditos.txt`. O fluxo de publicação confere o JavaScript, a presença dos recursos e o tamanho das imagens antes do envio.
+
+Para conferir o site após publicar:
+
+```sh
+URL_JOGO=https://medtechbr.com.br/fire-ash-web/ RESULTADOS=docs/publicacao/ node tools/testar_navegador.mjs
+```
