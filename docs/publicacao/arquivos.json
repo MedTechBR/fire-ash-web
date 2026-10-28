@@ -1,0 +1,380 @@
+[
+  {
+    "arquivo": "app.js",
+    "status": 200,
+    "igual": true,
+    "sha256": "900896bf898ab24ca9956d8d446edc472d94dc0d80a8e9bc76c64e56c2b1e0b1"
+  },
+  {
+    "arquivo": "assets/Autotiles/Flowers1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "340e8900d0e5f55f75f8700847b24cb04e6326ae9d404a52f54301def1eae865"
+  },
+  {
+    "arquivo": "assets/Autotiles/Flowers2.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "87b74d66761328a58f9e343f677b272cd34e2156f1b0d75024d3c3b703bde80b"
+  },
+  {
+    "arquivo": "assets/Autotiles/Fountain1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "37a5b684fe59ba1ddda36ebbcf477f9bd67de98622cb5c3754eb27f0370c62e1"
+  },
+  {
+    "arquivo": "assets/Autotiles/Fountain2.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "7109ecabbf6b4d96dc212a9a06f3261da24d034ab3e396ed5d6f4369bc2d0823"
+  },
+  {
+    "arquivo": "assets/Autotiles/Sand shore.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "74ad3887d601630391e772f76e2ef5335caa2c6a89550d635d74d8df3a6c3178"
+  },
+  {
+    "arquivo": "assets/Autotiles/Sea deep.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "8125b54b8e3fc717de508cf0cc3ad2481cecbe830c1634aa7436dc6e7694b752"
+  },
+  {
+    "arquivo": "assets/Autotiles/Sea without shore.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "1372e0609a2377b1248d0774a77ff61d938d2667e885384aadc9e52ac0899645"
+  },
+  {
+    "arquivo": "assets/Autotiles/Sea.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "eba13110ebfae98f8b411a5ed59f7bd7a541f75097a7accc5acd18182c6cc6cd"
+  },
+  {
+    "arquivo": "assets/Characters/JIGGLYPUFF.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "a3900dbbae3ea069acc7b8a636fbfe4e9e8d6c0bdbecf9817db344d3dd83d9c3"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 02.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "47c7545da36782ef8727e8664f9aa6c2e38d50b7c98454824c4d78a38b3a35cc"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 05.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "1d89bdf78d6586cc7a467e5daf69a9807f90d084a639afd3148e34c9de10d4e5"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 06.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "e1405d4431de7cbbfef45de8fe5c1fadb0ca18d48c5e751ee374f10bc7238cc4"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 07.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "4684ef27233948d0303b2495d9016e4a2cd8d0715dca5fcee97321851d7e25fe"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 08.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "8c3fc85d49e2fff447ed9ebea5bf269252af226d2f028b1d0ac466591e6675db"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 28.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "9ebe8327298629e8d32bde59f5956db29cc77c4b0ea3444e5898ab45fe85135d"
+  },
+  {
+    "arquivo": "assets/Characters/NPC 79.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "790ca979b4fac68730cce624b7ab236d5cb6b8fb2a07d814786ce10881303b89"
+  },
+  {
+    "arquivo": "assets/Characters/Object ball.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "749ce201df023237c76a5a1621ff21aa474ae04f6f6cb50aa051e43afe10fc7d"
+  },
+  {
+    "arquivo": "assets/Characters/Object tree 2.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "c90494d75e1798251381fd802f7d1fc26f1f1e05bb84db0f92f2289004aad7b1"
+  },
+  {
+    "arquivo": "assets/Characters/PIDGEY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "abf8d92e12ab9b6b1b139bfafe2c9a855d4ee8fd02edec5549804774944f05b8"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreeASPEARBERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "ed9d7744b294408057b3c3bef0e149728369cf101e8dde3d7a5c10c87a506b59"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreeCHERIBERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "9fd546517a98b982faa9b2cb2f44dbe6c8259f035e2ad5f0ba0a42f2d111485c"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreeCHESTOBERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "76e303e2bcc473cada836909e81678d23e2e23b432763fd8a3ef54774c7ab7e7"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreeORANBERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "7ef63b74004d30042d95421f0c4e3b2c9d91a945fece348b64bcea43d135cf26"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreePECHABERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "00b5beab0da63815d66ee463213dd9bb63fa62e7dd974baea41772bd93b3c5b8"
+  },
+  {
+    "arquivo": "assets/Characters/berrytreeRAWSTBERRY.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "ca3a8dd3f130a277fb62da05b169c9d4ae05616e733c715bdd728d634a7f8440"
+  },
+  {
+    "arquivo": "assets/Characters/doors1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "d55e8581be9721af4ab2cef0a4804ac54ef52516d84decfecd4fd536b554fd72"
+  },
+  {
+    "arquivo": "assets/Characters/doors3.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "618aaddd04b01dcabb0b595723409f8aea7fe84b73fe9bae79ac6de3729cdf3e"
+  },
+  {
+    "arquivo": "assets/Characters/doors5.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "85121fa063df7b037bb04f8066d22548f9851ba4c87e48762d3e9842ca4d804e"
+  },
+  {
+    "arquivo": "assets/Characters/trchar000_1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "7b055de0d56dd1d74c05fe26d86896af4518b18b9ebe46e80c7be9a3d0b7a00f"
+  },
+  {
+    "arquivo": "assets/Characters/trchar004.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "5deacc52037fb5c7680fdb923290fbbf7e27f54ce40a8f09392eb99a6057fa1b"
+  },
+  {
+    "arquivo": "assets/Characters/trchar022.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "20aa0e6c6b3b846c7b893e11e5e34a147d4e5830d7534e5adcfb0caf3af66e47"
+  },
+  {
+    "arquivo": "assets/Characters/trchar028.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "22134fd3f19b0072419e2c5a9122cded9d75a94bae7701183fbc06d729ce2351"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-0.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "9497a80afa448577e235aa95304a49f68d6cae7a9005c6299490101392d3be36"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "9c8b8404935b862d75b78baf1e72b72d608ed56bb829524b83474eb03052b1be"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-10.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "31db7ceea5a5ad046d02aefc7de3f136e940be14a18695a4a2c5506b199e3299"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-11.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "054982a4dcc9e4a6af21208a848800f5559b90a79c91d9b7714395f114abee2b"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-12.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "975e5c436c30ebd60ef98687aaf60d1a5caa0e5d74919f89418d3737295eaaa5"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-13.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "73d0259108091642480f20f46650ce0abf99aa3164acd4ae9959e5aabab90bde"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-2.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "bb1987333a11c151af7e786cc538e93e5f71c8fbc2d56ccec00a8ef2edefa818"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-3.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "b11b130e788453e2db7672b46c931a7b25a7071dc34c60e179fd54a7400dbcbb"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-6.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "fc26785ce49339413e51687a5d026acabfc165b476325c3a606008d63092a66c"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-7.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "40b5635aca9e73a6a40d75af5085062f827b31846baa96ba97ccd489dd87166a"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-8.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "e32323004cf889dd93563abb0979be4b6d3ab5357a19b87d650aafc3f4de55ed"
+  },
+  {
+    "arquivo": "assets/Tilesets/Interior general-9.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "d104dfb359861b867a1bcfa14efe27c188fde7ffa5585cc5eba318c0d31a049c"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-0.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "d1fc9d558f31ea8db913bf78ecabd056dcba3ce4d4a301eed9945d49c608b415"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-1.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "178f827e2e13d67de3e51554c6826f6ed41d5aa019bef2cfc6bfa43a066d4653"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-10.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "1b7c6fd8e4b5e9cfddc63d0f1dfb9a1a7664bf1df1556c1074585e0861419932"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-11.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "87ab5dd29c0446413fea25ef211bcfc92234f62986bd91fb70360c5b6926fcab"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-12.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "93bae1122a2883354b97efdb12d6bc72a87003d71af3bf73785d548ec6741e3a"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-24.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "42cffcfbddd1056e35a7d3f0e5a4343759973f12377225a1466767976b894f8f"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-3.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "6d0d5398b907a661692b833ccfdfecafcbae2e829df51d31604ca5c7f16503a4"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-4.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "acc6227d12dc7178edb952f4c34bff7d0e098d9243ced7666eda38c6faa5e18c"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-5.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "9d812f6f6ad3a7302cddef96fc765467df92faa1a720cdb7c90e5b05c4699976"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-6.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "78034edf9005e7a5fdd1526312bc3155753855c1fa039efbd71868cb4a0820cc"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-7.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "01944d067cc2fcc22545eff04ff39b965ffa8ac5f07fceddc6acb03297afcefe"
+  },
+  {
+    "arquivo": "assets/Tilesets/Outside-9.png",
+    "status": 200,
+    "igual": true,
+    "sha256": "8531581b702f2a9c9217e2b163810683b14d5d959e54241097df582d5cdac897"
+  },
+  {
+    "arquivo": "creditos.txt",
+    "status": 200,
+    "igual": true,
+    "sha256": "9ef5a30e4b7f7afe1b1a8ee4a4c657db1bba56b61023fb2cd2ebb8410fa10dbe"
+  },
+  {
+    "arquivo": "data/autotiles.json",
+    "status": 200,
+    "igual": true,
+    "sha256": "7dde7e994228e1c1fad53bb0100e372369ec2c4e8d1e3a738361d95e3644e7df"
+  },
+  {
+    "arquivo": "data/mapa-3.json",
+    "status": 200,
+    "igual": true,
+    "sha256": "f8d8e5b0562731561f5d6fee807ad22ffa5455db4b96e9d31a6fb411a716f7af"
+  },
+  {
+    "arquivo": "data/mapa-33.json",
+    "status": 200,
+    "igual": true,
+    "sha256": "3c6b90a2a1862a6cd437646ba0a630eee94dc32cacd3f8c7b1704a36acf5bf59"
+  },
+  {
+    "arquivo": "data/mapa-5.json",
+    "status": 200,
+    "igual": true,
+    "sha256": "115d8c0900a2681b4a2ae9e24e9cf10c04e938a3371b5b01734ce3220d55bf71"
+  },
+  {
+    "arquivo": "index.html",
+    "status": 200,
+    "igual": true,
+    "sha256": "88d81923b37b93c110d927af4b79ec0cdd1bc28ecc54b3a814d22216a6fc413f"
+  }
+]

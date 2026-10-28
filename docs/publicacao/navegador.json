@@ -1,0 +1,54 @@
+{
+  "url": "https://medtechbr.com.br/fire-ash-web/?v=17e6307",
+  "viewport": [
+    844,
+    390
+  ],
+  "dpr": 2,
+  "resultados": [
+    {
+      "id": 33,
+      "inicio": {
+        "x": 19,
+        "y": 32,
+        "dir": 2,
+        "mapa": 33
+      },
+      "fim": {
+        "x": 19,
+        "y": 34,
+        "dir": 2
+      }
+    },
+    {
+      "id": 5,
+      "inicio": {
+        "x": 18,
+        "y": 20,
+        "dir": 2,
+        "mapa": 5
+      },
+      "fim": {
+        "x": 18,
+        "y": 22,
+        "dir": 2
+      }
+    },
+    {
+      "id": 3,
+      "inicio": {
+        "x": 7,
+        "y": 6,
+        "dir": 2,
+        "mapa": 3
+      },
+      "fim": {
+        "x": 7,
+        "y": 8,
+        "dir": 2
+      }
+    }
+  ],
+  "erros": [],
+  "combateIntegrado": false
+}
